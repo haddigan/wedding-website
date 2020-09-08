@@ -20,11 +20,12 @@
   "homepage": "https://github.com/haddigan/wedding-website#readme",
   "dependencies": {
     "gatsby": "2.24.37",
-    "gatsby-plugin-postcss": "^2.3.11",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "gatsby-plugin-postcss": "2.3.11",
+    "react": "16.13.1",
+    "react-dom": "16.13.1"
   },
   "devDependencies": {
-    "tailwindcss": "^1.8.5"
+    "@mdx-js/mdx": "^1.6.16",
+    "tailwindcss": "1.8.5"
   }
 }
