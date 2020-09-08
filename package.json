@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "gatsby develop",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -16,5 +17,14 @@
   "bugs": {
     "url": "https://github.com/haddigan/wedding-website/issues"
   },
-  "homepage": "https://github.com/haddigan/wedding-website#readme"
+  "homepage": "https://github.com/haddigan/wedding-website#readme",
+  "dependencies": {
+    "gatsby": "2.24.37",
+    "gatsby-plugin-postcss": "^2.3.11",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {
+    "tailwindcss": "^1.8.5"
+  }
 }
