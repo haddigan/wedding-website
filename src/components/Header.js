@@ -13,6 +13,7 @@ export default () => (
       </Link>
     </p>
     <img
+      alt="Eucalyptus plant"
       className="flex-auto sm:w-2/12 w-1/4 self-center py-2"
       src={Eucalyptus}
     />
