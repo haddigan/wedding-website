@@ -14,6 +14,10 @@ export default () => (
         <p className="text-xl font-semibold">Bok Bar</p>
         <p>1909 S 9th Street</p>
         <p>(9th &amp; Mifflin)</p>
+        <p className="m-4">
+          Enter on 8th St, walk straight down the hallway, and the elevators
+          will be on your right. Take the elevator to the top floor.
+        </p>
       </section>
     </section>
 
@@ -25,8 +29,13 @@ export default () => (
           Immediately Following Ceremony
         </p>
         <p className="text-xl font-semibold">The Bardot</p>
-        {/* <p>1909 S 9th Street</p> */}
+        <p>1645 S Broad Street</p>
         <p>(Broad &amp; Morris)</p>
+        <p className="m-4">
+          Please enter through the white door on Morris Street (next to the
+          garage door). Stay in the outdoor area as much as possible and{" "}
+          <strong>please wear a mask!</strong>
+        </p>
       </section>
     </section>
   </Layout>
