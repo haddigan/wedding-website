@@ -1,7 +1,7 @@
 import React from "react";
 
 import Layout from "../components/Layout";
-import Photo from "../../images/dan+siobhan.jpg";
+import Photo from "../../images/dan+siobhan_.jpg";
 
 export default () => (
   <Layout>
