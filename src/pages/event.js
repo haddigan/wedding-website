@@ -28,8 +28,8 @@ export default () => (
           Google Maps
         </Link>
         <p className="m-4">
-          Enter on Mifflin Street. Make a right after entering and the elevators
-          will be on the left. Take the elevator to the top floor, the venue
+          Use the 9th St entrance. Head straight down the hallway, elevators
+          will be on your right. Take the elevator to the top floor, the venue
           will be on your left as you exit.
         </p>
       </section>
